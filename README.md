@@ -1,4 +1,3 @@
-# RahafAz 
 ‏-- create database tvtc;
 
 ‏create table dep (
